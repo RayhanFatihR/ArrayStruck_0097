@@ -13,5 +13,8 @@ int main(){
     skor[2] = 25;
     cout << "Skor ke 3 = " << skor[2] << endl;
 
-    
+    for(int i = 0; i < 3; i++){
+        cout << "Nama Mahasiswa ke-" << i+1 << "=";
+        cin >> nama[i]
+    }
 }
