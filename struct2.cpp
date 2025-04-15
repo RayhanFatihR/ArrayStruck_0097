@@ -28,6 +28,6 @@ int main(){
 
     cout << "NIM =" << mhs.nim << endl;
     cout << "Nama =" << mhs.nama << endl;
-    cout << "Alamat =" << mhs.alamat.desa << endl;
-    cout << "Alamat =" << mhs.alamat.kota << endl;
+    cout << "Alamat Desa =" << mhs.alamat.desa << endl;
+    cout << "Alamat Kota =" << mhs.alamat.kota << endl;
 }
