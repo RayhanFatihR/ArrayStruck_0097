@@ -19,4 +19,12 @@ int main(){
     cout << "Mahasiswa Nama =";
     cin >> mhs.nama;
     cout << "Mahasiswa Alamat =";
+    cin >> mhs.alamat;
+
+    cout << endl;
+    cout << "Data Mahasiswa" << endl;
+
+    cout << "NIM =" << mhs.nim << endl;
+    cout << "Nama =" << mhs.nama << endl;
+    cout << "Alamat =" << mhs.alamat << endl;
 }
