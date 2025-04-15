@@ -15,12 +15,11 @@ int main(){
 
     for(int i = 0; i < 3; i++){
         cout << "Nama Mahasiswa ke-" << i+1 << "=";
-        cin >> nama[i]
+        cin >> nama[i];
     }
 
     cout << endl;
     for (int i = 0; i < 3; i++){
-        cout << "Data Mahasiswa ke-" << i+1 << "=" << nama[i];
-        << endl;
+        cout << "Data Mahasiswa ke-" << i+1 << "=" << nama[i] << endl;
     }
 }
