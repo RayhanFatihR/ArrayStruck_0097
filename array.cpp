@@ -17,4 +17,7 @@ int main(){
         cout << "Nama Mahasiswa ke-" << i+1 << "=";
         cin >> nama[i]
     }
+
+    cout << endl;
+    for (int i = 0; i < 3; i++){}
 }
